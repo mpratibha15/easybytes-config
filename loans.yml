@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to eazybank"
+  contactDetails:
+    name: "pratibha-dev"
+    email: "m.pratibha@gmail.com"
+  onCallSupport:
+    -(555)555 555
+    -(555)555 556
+
+
+
