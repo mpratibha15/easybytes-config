@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to eazybank"
+  message: "Welcome to docker eazybank"
   contactDetails:
     name: "pratibha-dev"
     email: "m.pratibha@gmail.com"
